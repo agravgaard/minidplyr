@@ -2,13 +2,17 @@
 % Please edit documentation in R/penis_music.R
 \name{penis_music}
 \alias{penis_music}
-\title{Title}
+\title{Penis Music}
 \usage{
 penis_music()
 }
 \value{
-
+"Penis Music"
 }
 \description{
-Title
+Penis music
+}
+\examples{
+penis_music()
+
 }
